@@ -1,5 +1,5 @@
 # Power-Bi-Project  
-# 📊 Shopify E-Commerce Sales & Customer Analytics Dashboard (Power BI)
+# 📊 Shopify Sales & Customer Analytics Dashboard (Power BI)
 
 An interactive **Power BI Dashboard** built to analyze Shopify transactions and customer behavior.  
 The project provides actionable insights into **sales, retention, payment methods, and product trends**.
